@@ -1,0 +1,6 @@
+Pillow==9.4.0
+Pillow==9.5.0
+proxmoxer==2.0.1
+pystray==0.19.4
+termcolor==2.3.0
+urllib3==1.26.14
