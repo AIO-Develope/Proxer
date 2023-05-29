@@ -14,7 +14,7 @@ A little private tool i use as a proxmox user. Its a simple terminal based proxm
 
 # Commands
 
-Syntax:
+Example:
 
 
 <img src="https://raw.githubusercontent.com/AIO-Develope/Proxer/main/images/proxer.PNG" width="40%" height="40%"/>
