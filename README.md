@@ -1,6 +1,6 @@
 # Proxer
 <h1 align="center">
-    Roler
+    Proxer
     <br>
     <div align="center">
     <img src="https://img.shields.io/badge/Python-3.10.6-blue" align="center"/>
