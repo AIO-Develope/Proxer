@@ -1,0 +1,7 @@
+{
+    "proxmox-address": "ip:port or domain",
+    "user": "for example: root@pam",
+    "password": "banana1234",
+    "ssl": false
+  }
+  
