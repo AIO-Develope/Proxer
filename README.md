@@ -5,7 +5,7 @@
     <div align="center">
     <img src="https://img.shields.io/badge/Python-3.10.6-blue" align="center"/>
     <img src="https://img.shields.io/badge/proxmoxer-2.0.1-orange" align="center"/>
-    <img src="https://img.shields.io/badge/Developing-Active-brightgreen" align="center"/>
+    <img src="https://img.shields.io/badge/Developing-only on request-brightgreen" align="center"/>
     <img src="https://img.shields.io/badge/Version-1.0-green" align="center"/>
     </div>
 </h1>
